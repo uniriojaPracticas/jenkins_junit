@@ -18,7 +18,7 @@ public class UserTester {
 
 	@Test
 	public void testGetName() {
-		assertSame("Jul", user.getName());
+		assertSame("Julio", user.getName());
 	}
 
 	@Test
