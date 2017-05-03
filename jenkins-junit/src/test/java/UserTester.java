@@ -6,6 +6,8 @@ import java.util.GregorianCalendar;
 
 import org.junit.Test;
 
+import object.User;
+
 public class UserTester {
 	
 	private User user;
