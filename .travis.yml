@@ -1,2 +1,4 @@
 language: java
-script: mvn test -B
+script: 
+- cd jenkins-junit
+- mvn test -B
